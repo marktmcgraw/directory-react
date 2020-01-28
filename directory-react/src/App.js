@@ -5,6 +5,8 @@ import Table from './components/Table';
 import Row from './components/Row';
 import './App.css';
 
+import Employees from './employeeData';
+
 function App() {
   return (
     <div className="App">
