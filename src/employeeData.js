@@ -5,7 +5,7 @@ export const Employees = [
         "department": "Human Resources",
         "title": "Manager",
         "salary": "55000",
-        "e-mail": "monet@company.com"
+        "email": "monet@company.com"
     },
     {
         "id": "68",
@@ -13,7 +13,7 @@ export const Employees = [
         "department": "Finance",
         "title": "Office Coordinator",
         "salary": "47000",
-        "e-mail": "violet@company.com" 
+        "email": "violet@company.com" 
     },
     {
         "id": "76",
@@ -21,7 +21,7 @@ export const Employees = [
         "department": "Sales",
         "title": "Manager",
         "salary": "60000",
-        "e-mail": "katya@company.com" 
+        "email": "katya@company.com" 
     },
     {
         "id": "34",
@@ -29,7 +29,7 @@ export const Employees = [
         "department": "Web Development",
         "title": "Project Manager",
         "salary": "70000",
-        "e-mail": "trixie@company.com" 
+        "email": "trixie@company.com" 
     },
     {
         "id": "83",
@@ -37,7 +37,7 @@ export const Employees = [
         "department": "Admin",
         "title": "CFO",
         "salary": "90000",
-        "e-mail": "kennedy@company.com" 
+        "email": "kennedy@company.com" 
     },
     {
         "id": "57",
@@ -45,7 +45,7 @@ export const Employees = [
         "department": "Operations",
         "title": "Manager",
         "salary": "75000",
-        "e-mail": "dita@company.com" 
+        "email": "dita@company.com" 
     },
     {
         "id": "16",
@@ -53,7 +53,7 @@ export const Employees = [
         "department": "Human Resources",
         "title": "Assistant Manager",
         "salary": "45000",
-        "e-mail": "jasmine@company.com" 
+        "email": "jasmine@company.com" 
     },
     {
         "id": "29",
@@ -61,7 +61,7 @@ export const Employees = [
         "department": "Web Development",
         "title": "Junior Developer",
         "salary": "57000",
-        "e-mail": "naomi@company.com" 
+        "email": "naomi@company.com" 
     },
     {
         "id": "8",
@@ -69,7 +69,7 @@ export const Employees = [
         "department": "Operations",
         "title": "Office Coordinator",
         "salary": "45000",
-        "e-mail": "kimchi@company.com" 
+        "email": "kimchi@company.com" 
     },
     {
         "id": "124",
@@ -77,7 +77,7 @@ export const Employees = [
         "department": "Sales",
         "title": "Assistant Manager",
         "salary": "52000",
-        "e-mail": "alexis@company.com" 
+        "email": "alexis@company.com" 
     },
     {
         "id": "96",
@@ -85,6 +85,6 @@ export const Employees = [
         "department": "Finance",
         "title": "Manager",
         "salary": "68000",
-        "e-mail": "yara@company.com" 
+        "email": "yara@company.com" 
     }
 ]
