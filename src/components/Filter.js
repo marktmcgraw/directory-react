@@ -7,11 +7,12 @@ export default function Filter(props) {
       <div className="row">
         <div className="col-12">
           <input
-            type="radio"
+            type="checkbox"
             value="manager"
+            
             onChange={({ target }) => props.onChange(target.checked)}
           />
-          <label className="m-1"> Show only manager</label>
+          <label className="m-1">Display Managers Only</label>
         </div>
       </div>
     </div>

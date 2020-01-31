@@ -1,6 +1,6 @@
-export const Employees = [
+export const employees = [
     {
-        "id": "24",
+        "id": "1",
         "name": "Monet Exchange",
         "department": "Human Resources",
         "title": "Manager",
@@ -8,7 +8,7 @@ export const Employees = [
         "email": "monet@company.com"
     },
     {
-        "id": "68",
+        "id": "2",
         "name": "Violet Chachki",
         "department": "Finance",
         "title": "Office Coordinator",
@@ -16,7 +16,7 @@ export const Employees = [
         "email": "violet@company.com" 
     },
     {
-        "id": "76",
+        "id": "3",
         "name": "Katya Zamolochikova",
         "department": "Sales",
         "title": "Manager",
@@ -24,7 +24,7 @@ export const Employees = [
         "email": "katya@company.com" 
     },
     {
-        "id": "34",
+        "id": "4",
         "name": "Trixie Mattel",
         "department": "Web Development",
         "title": "Project Manager",
@@ -32,7 +32,7 @@ export const Employees = [
         "email": "trixie@company.com" 
     },
     {
-        "id": "83",
+        "id": "5",
         "name": "Kennedy Davenport",
         "department": "Admin",
         "title": "CFO",
@@ -40,7 +40,7 @@ export const Employees = [
         "email": "kennedy@company.com" 
     },
     {
-        "id": "57",
+        "id": "6",
         "name": "Dita Ritz",
         "department": "Operations",
         "title": "Manager",
@@ -48,7 +48,7 @@ export const Employees = [
         "email": "dita@company.com" 
     },
     {
-        "id": "16",
+        "id": "7",
         "name": "Jasmine Masters",
         "department": "Human Resources",
         "title": "Assistant Manager",
@@ -56,7 +56,7 @@ export const Employees = [
         "email": "jasmine@company.com" 
     },
     {
-        "id": "29",
+        "id": "8",
         "name": "Naomi Smalls",
         "department": "Web Development",
         "title": "Junior Developer",
@@ -64,27 +64,11 @@ export const Employees = [
         "email": "naomi@company.com" 
     },
     {
-        "id": "8",
+        "id": "9",
         "name": "Kim Chi Chic",
         "department": "Operations",
         "title": "Office Coordinator",
         "salary": "45000",
         "email": "kimchi@company.com" 
     },
-    {
-        "id": "124",
-        "name": "Alexis Mateo",
-        "department": "Sales",
-        "title": "Assistant Manager",
-        "salary": "52000",
-        "email": "alexis@company.com" 
-    },
-    {
-        "id": "96",
-        "name": "Yara Sofia",
-        "department": "Finance",
-        "title": "Manager",
-        "salary": "68000",
-        "email": "yara@company.com" 
-    }
 ]

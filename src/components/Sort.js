@@ -14,6 +14,8 @@ export default function Sort(props) {
             onChange={({ target }) => props.onChange(target.value)}
           >
             <option> Department </option>
+            <option> Name </option>
+            <option>ID</option>
           </select>
         </div>
       </div>
